@@ -12,7 +12,12 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Cameron Nazemi"
         self.role = "Software Engineer"
+        self.college = "University of California, San Diego"
+        self.major = "Computer Science"
+        self.hobbies = ["Rock Climbing", "Basketball", "Rocket League",
+                        "Making apps", "Graphic Design", "Producing Music"]
         self.language_spoken = ["en_US"]
+        
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
