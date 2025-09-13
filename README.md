@@ -11,11 +11,11 @@ class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Cameron Nazemi"
-        self.role = "Software Engineer"
+        self.role = "Senior Software Engineer"
         self.college = "University of California, San Diego"
         self.major = "Computer Science"
         self.hobbies = ["Rock Climbing", "Basketball", "Rocket League",
-                        "Making apps", "Graphic Design", "Producing Music"]
+                        "Building software", "UI/UX Design"]
         self.language_spoken = ["en_US"]
         
 
